@@ -11,10 +11,10 @@ I am passionate about Artificial Intelligence, Machine Learning, and uncovering 
   * *Current Focus:* Unsupervised Learning (K-Means, DBSCAN, Hierarchical Clustering) and Dimensionality Reduction (PCA, t-SNE) using datasets like Mall Customers and MNIST.
 
 ### 🛠️ Tech Stack & Tools
-**Languages:** Python, SQL  
-**Machine Learning:** Scikit-Learn, PyTouch 
-**Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Plotily  
-**Tools:** Jupyter Notebook, Google Colab, Git, GitHub  
+* **Languages:** Python, SQL  
+* **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Plotly 
+* **Machine Learning:** Scikit-Learn, PyTorch  
+* **Tools:** Jupyter Notebook, Google Colab, Git, GitHub  
 
 ### 🌱 What I'm Learning Next
 * Deep Learning & Neural Networks (CNNs, RNNs)
@@ -32,13 +32,11 @@ I am passionate about Artificial Intelligence, Machine Learning, and uncovering 
 ---
 
 <div align="center">
-  
   ### 📊 GitHub Stats
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=vikassinngh123&show_icons=true&theme=radium" alt="Vikas's GitHub Stats" />
-  
-  <br><br>
-  
-  <img src="https://skillicons.dev/icons?i=python,scikit,tensorflow,pandas,git,github" />
 
+  <img src="https://github-readme-stats.vercel.app/api?username=vikassinngh123&show_icons=true&theme=radium" alt="Vikas's GitHub Stats" />
+  <br><br>
+  <img src="https://streak-stats.demolab.com/?user=vikassinngh123&theme=radium" alt="GitHub Streak" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=python,scikit,tensorflow,pandas,git,github" />
 </div>
