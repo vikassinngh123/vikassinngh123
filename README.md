@@ -1,10 +1,10 @@
 <h1 align="center">Hi there, I'm Vikas Singh 👋</h1>
 
-<h3 align="center">Machine Learning Enthusiast | Data Science Learner</h3>
+<h3 align="center">B.Tech CSE Student @ AKGEC | Machine Learning Enthusiast | Data Science Learner</h3>
 
 <br>
 
-I am passionate about Artificial Intelligence, Machine Learning, and uncovering hidden patterns in complex datasets. I am currently deep-diving into Data Science, building out my portfolio with end-to-end ML projects ranging from predictive modeling to complex unsupervised learning.
+I am a first-year B.Tech Computer Science (CSE Core) student at AKGEC, passionate about Artificial Intelligence, Machine Learning, and uncovering hidden patterns in complex datasets. I am currently deep-diving into Data Science, building out my portfolio with end-to-end ML projects ranging from predictive modeling to complex unsupervised learning.
 
 ### 🔭 What I'm Currently Working On
 * 🧠 **[AI-ML-Learning](https://github.com/vikassinngh123/AI-ML-Learning):** A comprehensive repository documenting my journey through Machine Learning. 
