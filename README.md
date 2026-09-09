@@ -5,6 +5,7 @@ I am a first-year B.Tech Computer Science (CSE Core) student at AKGEC, passionat
 
 ### 🔭 What I'm Currently Working On
 * 🧠 **[AI-ML-Learning](https://github.com/vikassinngh123/AI-ML-Learning):** A comprehensive repository documenting my journey through Machine Learning.
+*    **Live Demo:** [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://vikas-landscape-classifier.streamlit.app/) Natural Landscape Classifier
 * *Current Focus:* Building deep learning architectures and custom neural networks using **PyTorch** (like my recent Breast Cancer Binary Classification model), alongside advanced ensemble techniques (Stacking/Voting regressors) for complex datasets.
 
 ### 🛠️ Tech Stack & Tools
