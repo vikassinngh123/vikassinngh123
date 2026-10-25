@@ -19,8 +19,8 @@
 | Project | Core Architecture | Live Demo / Repo |
 | :--- | :--- | :---: |
 | **🛡️ [GateKeeper AI](https://github.com/vikassinngh123/gatekeeper_ai)** | `YOLOv8n` + `ByteTrack` + `YuNet/SFace` + `FastAPI` | [![Vercel](https://img.shields.io/badge/Live_Dashboard-Vercel-black?logo=vercel)](https://gatekeeper-ai-mu.vercel.app)<br>[![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://cloudgatekeeperai-g6bfdpf5fdvcdqxdaffxdk.streamlit.app/) |
-| **🍱 [Food-101 Classifier](https://github.com/vikassinngh123/food-101-classifier-app)** | `PyTorch` + `EfficientNet-B3` + `Streamlit` | [![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://food101-classifier-vikas.streamlit.app/) |
-| **⛰️ [Landscape Classifier](https://github.com/vikassinngh123/landscape-classifier-app)** | `PyTorch` + `ResNet-18` + `Streamlit` | [![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://landscape-classifier-vikas.streamlit.app/) |
+| **🍱 [Food-101 Classifier](https://github.com/vikassinngh123/food-101-classifier-app)** | `PyTorch` + `EfficientNet-B3` + `Streamlit` | [![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://food-101-classifier-app.streamlit.app/) |
+| **⛰️ [Landscape Classifier](https://github.com/vikassinngh123/landscape-classifier-app)** | `PyTorch` + `ResNet-18` + `Streamlit` | [![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://landscape-classifier-app.streamlit.app/) |
 
 ---
 
